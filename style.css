@@ -90,7 +90,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(img/bgimage.jpg) no-repeat;
+    background: url(bgimage.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
